@@ -244,7 +244,7 @@ aside b {
     transition: margin-top 2s ease-in-out;
 }
 #home_head_content {
-    margin: 0 auto;
+    margin: 50px auto;
     position: relative;
     width: 153.2px;
     height: 153.2px;
@@ -252,9 +252,9 @@ aside b {
 }
 #home_head img {
     width: 150px;
-    height: 150px;
+    height: 170px;
     border: 2px #CCCCCC solid;
-    border-radius: 75px;
+    border-radius: 20px;
     position: absolute;
     -webkit-transition: box-shadow 2s;
     transition: box-shadow 2s;
